@@ -5,7 +5,7 @@ O BasalFit é um aplicativo mobile desenvolvido em Flutter, focado no cálculo d
 O app permite ao usuário informar dados pessoais e selecionar o nível de atividade física, retornando um cálculo confiável e de fácil entendimento.
 
 Funcionalidades:
-. Cálculo da TMB com base na fórmula de Mifflin-St Jeor
+. Cálculo da TMB com base na fórmula de Harris-Benedict
 .Seleção de nível de atividade física
 .Seleção de sexo
 .Validação de formulários
