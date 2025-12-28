@@ -15,7 +15,7 @@ Funcionalidades:
 
 Formula Utilizada:
 TMB(masculino) = 88.36 + (13.4 * peso) + (4.8 * altura) - (5.7 * idade)
-  TMB(femenino) = 447.6 + (9.2 * peso) + (3.1 * altura) - (4.3 * idade)
+TMB(femenino) = 447.6 + (9.2 * peso) + (3.1 * altura) - (4.3 * idade)
   
 Tecnologias utilizadas:
 .Flutter
